@@ -1,0 +1,3 @@
+Man kann sicherstellen, dass die Wahrscheinlichkeit eines falschen Ergebnisses echt kleiner als 10^15 ist, wenn man den
+Algorithmus öfter als 3-mal durchlaufen lässt.
+1-mal laufen 10^-6, 2-mal laufen 10^-12, 3-mal laufen 10^-18.
