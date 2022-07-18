@@ -1,3 +1,0 @@
-C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Algorithmen & Datenstrukturen/Aufgabe_1/cmake-build-debug/CMakeFiles/Aufgabe_1.dir
-C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Algorithmen & Datenstrukturen/Aufgabe_1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Algorithmen & Datenstrukturen/Aufgabe_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
