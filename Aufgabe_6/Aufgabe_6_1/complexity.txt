@@ -1,0 +1,5 @@
+Beim randomisierten MergeSort erwarte ich mir eine im Durchschnitt eine Komplexität von O(nlog(n)). Das schlechteste was
+passieren kann wäre O(n^2), dies würde auftreten, wenn wir ein geordnetes Array haben und immer das erste bzw das letzte
+Element als pivot benutzen würden. Bei einem array mit 2 Ojekte ist so ein Fall noch relativ wahrscheinlich, hätte aber
+auf die Laufzeit eine vernachlässigbare Wirkung. Je mehr Elemente in das Array kommen und damit der Pool aus welchem ich
+das Pivot Element randomisiert ziehen kann, wächst, desto geringer ist die wahrscheinlichkeit, dass ich O(n^2) habe.
